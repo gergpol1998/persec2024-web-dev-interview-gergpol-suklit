@@ -1,0 +1,17 @@
+{
+  "name": "persec2024-web-dev-interview-gergpol-suklit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "typescript": "^5.5.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:assignment1": "tsc && node dist/assignment_1.js",
+    "start:assignment2": "tsc && node dist/assignment_2.js",
+    "start:assignment4": "tsc && node dist/assignment_4.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
